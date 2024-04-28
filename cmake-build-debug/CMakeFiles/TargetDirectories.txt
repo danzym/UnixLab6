@@ -1,0 +1,3 @@
+/Users/air/Desktop/CLion/UnixLab6/cmake-build-debug/CMakeFiles/UnixLab6.dir
+/Users/air/Desktop/CLion/UnixLab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/air/Desktop/CLion/UnixLab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
